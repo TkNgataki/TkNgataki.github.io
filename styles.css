@@ -1,0 +1,40 @@
+/*
+
+Title: Stylesheet Template
+
+Author: Your Name
+
+*/
+body {
+		background: #eee;
+		font-size: 16px
+		Margin: 0:;
+
+}
+
+a {
+		color:crimson;
+			text-decoration: none;
+}
+
+a:hover {
+	color:red;
+}
+
+/* Layout
+_____________________________________*/
+
+header,
+.container,
+footer {
+		margin:0 auto;
+		width: 88%;
+		max-width: 960px;
+		/*border: 1px solid red;*/
+
+}
+.wrapper{
+		padding:1em 0;
+		background: #fff;
+}
+
